@@ -14,3 +14,14 @@ Este código também requer a biblioteca Google Fonts "Roboto" para exibir corre
 ``` HTML5
 <link href="https://fonts.googleapis.com/css?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 ```
+
+## Uso
+Após a instalação, as nove caixas com a classe "box" e um cabeçalho H2 dentro de cada uma delas devem ser exibidas conforme descrito acima.<br>
+As animações das caixas são ativadas automaticamente conforme o usuário rola a página para baixo.
+
+## Contribuição
+Este código foi criado por um desenvolvedor independente e pode ser livremente utilizado e modificado.<br>
+Se você quiser contribuir para o desenvolvimento deste código, sinta-se à vontade para fazer um fork deste repositório, fazer suas alterações e enviar um pull request.
+
+## Licença
+Este código é licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
