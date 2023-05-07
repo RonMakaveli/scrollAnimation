@@ -11,6 +11,6 @@ Certifique-se de colocar o código JavaScript no final do arquivo HTML, antes do
 
 Este código também requer a biblioteca Google Fonts "Roboto" para exibir corretamente as fontes usadas. Certifique-se de adicionar a seguinte linha de código ao cabeçalho da sua página HTML, entre as tags <head> e </head>:
 
-```
+``` HTML5
 <link href="https://fonts.googleapis.com/css?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 ```
