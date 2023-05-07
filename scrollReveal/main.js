@@ -1,4 +1,4 @@
-const boxes = document.querySelector(".box");
+const boxes = Array.from(document.querySelectorAll(".box"));
 
 const checkBoxes = () => {
     const triggerBottom = (window.innerHeight / 5) * 4;
