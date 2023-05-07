@@ -1,4 +1,4 @@
-#Animação de Caixas
+# Animação de Caixas
 Este é um código JavaScript que cria um efeito de animação para nove caixas em uma página da web.<r>
 As caixas aparecem na tela conforme o usuário rola a página, se movendo para a esquerda ou para a direita, dependendo da posição em que aparecem na página.
 
